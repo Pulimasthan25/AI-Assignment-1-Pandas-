@@ -1,2 +1,3 @@
 # AI-Assignment-1-Pandas-
-Marks whuch are given to each student are generated randomly using random function
+This is an assignment on Pandas 
+Marks which are given to each student are generated randomly using random function
